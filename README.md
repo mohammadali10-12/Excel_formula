@@ -6,4 +6,7 @@
   vaghrol patan, 9265533892    |	vaghrol patan	      | 9265533892	      
   vadhana palanpur, 9876543210 |  vadhana palanpur		|
   molipur mahesana, 7890654321 |  molipur mahesana		|
-# add address first field fill. select second field and press CTRL+E.
+- add address first field fill. select second field and press CTRL+E.
+
+# Analysis Data (Data-> data analysis)
+ex. like graph
